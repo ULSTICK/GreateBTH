@@ -1438,11 +1438,11 @@ hash = "a1e71456d8a0211057d4b0b08236213f608db8f4029fca04b1fee2ae96fb1559"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/SophisticatedBackpacks.js"
-hash = "746e2bfd8fc56445a9c82c89f0c09fc30083585ae4601b3e02d8ac6dee1efd61"
+hash = "7fa873f6b515ea999ff88e67fdd672a86325448363299f559debacd3d8a8adf7"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/SophisticatedStorage.js"
-hash = "a2bc1364aaa414e11f3cc7512809da53dc48487f652b93b2b0abec0c0377d159"
+hash = "7cf8ec5ab9177ba709435b524366cfba9ae474dfc6bec7da4bda71f8f22834c4"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/StargateJourney.js"
