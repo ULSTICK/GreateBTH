@@ -402,7 +402,7 @@ hash = "c14c184762c0bd3bae847c4d93888429851bdb13adb8dab270f60fb84ed7d5cf"
 
 [[files]]
 file = "kubejs/client_scripts/jei_hide.js"
-hash = "343bc62785394d8a7124791022c96ceaf16df207f81da0f02094c6f214828a82"
+hash = "a1aadff1a7c4c58a69e081b3151e73fe9230fd4b3bd4ca9ed7f013597e14138e"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1438,11 +1438,11 @@ hash = "a1e71456d8a0211057d4b0b08236213f608db8f4029fca04b1fee2ae96fb1559"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/SophisticatedBackpacks.js"
-hash = "7fa873f6b515ea999ff88e67fdd672a86325448363299f559debacd3d8a8adf7"
+hash = "5f8bd20f48712251ff25fe36b470751b05439dfa62f4ff41c547d65e6caf1e8d"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/SophisticatedStorage.js"
-hash = "7cf8ec5ab9177ba709435b524366cfba9ae474dfc6bec7da4bda71f8f22834c4"
+hash = "751acfdf66d5984a8a6ea15b3734acacfe36f2a22dedd226e2c476916c6ffd6a"
 
 [[files]]
 file = "kubejs/server_scripts/Mods/StargateJourney.js"
