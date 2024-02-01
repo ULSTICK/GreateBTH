@@ -10,8 +10,14 @@ GTCEuServerEvents.oreVeins(event => {
 				.layer(l => {
 					l
 						.weight(1)
-						.block(() => Block.getBlock('ad_astra:moon_stone'))
+						.block(() => Block.getBlock('ad_astra:moon_deepslate'))
 						.size(2, 3)
+				})
+				.layer(l => {
+					l
+						.weight(1)
+						.block(() => Block.getBlock('create:scoria'))
+						.size(1, 2)
 				})
 		},
 
@@ -184,9 +190,9 @@ GTCEuServerEvents.oreVeins(event => {
 	//Moon
 	addVein('bauxite_vein_moon', 'moon', 25, 40, 10, 80, GTMaterials.Bauxite, 'above', passiveLayers.moon, pattern => {
 		pattern
-			.layer(l => l.weight(2).mat(GTMaterials.Bauxite).size(1, 4))
-			.layer(l => l.weight(1).mat(GTMaterials.Ilmenite).size(1, 2))
-			.layer(l => l.weight(1).mat(GTMaterials.Aluminium).size(1, 1))
+        	.layer(l => l.weight(2).block(() => Block.getBlock('gtceu:moon_stone_bauxite_ore')).size(1, 4))
+        	.layer(l => l.weight(1).block(() => Block.getBlock('gtceu:moon_stone_ilmenite_ore')).size(1, 2))
+        	.layer(l => l.weight(1).block(() => Block.getBlock('gtceu:moon_stone_aluminium_ore')).size(1, 1))
 	})
 
 	// End veins

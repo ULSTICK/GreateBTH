@@ -22,8 +22,8 @@ GTCEuStartupEvents.registry('gtceu:tag_prefix', e => {
 
     stoneTypes.forEach(type => {
         e.create(type.split(':')[1], 'ore')
-            .baseModelLocation(type)
-            .stateSupplier(() => Block.getBlock(type).defaultBlockState())
+            .stateSupplier(() => Block.getBlock('minecraft:cobbled_deepslate').defaultBlockState())
+            .baseModelLocation(type.split(':')[0]+':block/'+type.split(':')[1])
             .unificationEnabled(true)
             .materialIconType(GTMaterialIconType.ore)
             .miningToolTag("mineable/pickaxe")
