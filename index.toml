@@ -1354,7 +1354,7 @@ hash = "ec2e952f5618bd8c46f0fccdc648a1363d66283cfa1c3b581a339b2e2b36fe98"
 
 [[files]]
 file = "kubejs/server_scripts/GregOreVeins.js"
-hash = "cf1193e255f3287802d0cee4912e8c6d14d678c91c9896beca28c97a9121ac4e"
+hash = "337b65dc1edde8bd0888a0c407b7a5d9e0514ca7f19fc7bbeedfa3f66680410b"
 
 [[files]]
 file = "kubejs/server_scripts/Items/Compass.js"
@@ -1522,7 +1522,7 @@ hash = "ad163c1e745600837621eb000162865bcb15dd7bc1aef0dbb02a15e5c003bbdf"
 
 [[files]]
 file = "kubejs/startup_scripts/Ores.js"
-hash = "4ebdc524e30d9f1025177c2d48b0a5f07a28c6a53982ecd5a50cd3f2bcd32b49"
+hash = "7567c36adce677ac2f6a3eba3ad37e45249316176175145a1725440a062fd62f"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
